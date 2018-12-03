@@ -1,0 +1,10 @@
+message = """Agent,
+Greetings. My situation report is as follows:
+
+My agent identifying code is: .
+Down with the Soviets,
+006
+"""
+encrypted = "b5eb5fe970f8c575dd827840fc75ff92548ad6c587e127bd46bf76d2c55531e80aed0764b1628d0f41f646e21b58a41496e9d32c5d0f8552da23027fe8ac13e94df184716c5bf19ee7eb7b08929211b625ebbb58684eafcd7e02f45f83b2be7cfaf28aee009535e6872a35bf7f16103afa246d94b65bb2566afbe437322063fb73fe5fae5230cbf435ffa998da21c5a047fed63229d140e95f44c03d3efb0ab8396cc2967fb0ff186e99e2ed9b36255fdcc2a04e73381f7a53c4eff9499c6348"
+print(len(message))
+print(len(encrypted))
